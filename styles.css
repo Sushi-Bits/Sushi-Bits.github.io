@@ -12,8 +12,8 @@
 body {
     font-family: 'Cormorant Garamond';
     font-weight: 300;
-    color: deeppink;
-    background-color: rgb(196, 206, 207);
+    color: pink;
+    background-color: #171717;
     justify-content: flex;
     align-items: center;
     display: flex;
@@ -31,4 +31,25 @@ body {
 
 .profile p {
     padding: 10px;
+}
+
+.whoami {
+    align-items: center; 
+    justify-content: center; 
+    display: flex;
+    flex-direction: column;
+}
+
+.education {
+    align-items: center; 
+    justify-content: center; 
+    display: flex;
+    flex-direction: column;
+}
+
+.experience {
+    align-items: center; 
+    justify-content: center; 
+    display: flex;
+    flex-direction: column;
 }
