@@ -12,8 +12,8 @@
 body {
     font-family: 'Cormorant Garamond';
     font-weight: 300;
-    color: pink;
-    background-color: #171717;
+    color: pink; 
+    background-color: #171717; 
     justify-content: flex;
     align-items: center;
     display: flex;
